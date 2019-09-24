@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-state-sleepy-homer/static/css/main.af0a5a8e.chunk.css",
+    "main.js": "/react-state-sleepy-homer/static/js/main.0fcadedd.chunk.js",
+    "main.js.map": "/react-state-sleepy-homer/static/js/main.0fcadedd.chunk.js.map",
+    "runtime~main.js": "/react-state-sleepy-homer/static/js/runtime~main.2c9bdf70.js",
+    "runtime~main.js.map": "/react-state-sleepy-homer/static/js/runtime~main.2c9bdf70.js.map",
+    "static/js/2.901827b4.chunk.js": "/react-state-sleepy-homer/static/js/2.901827b4.chunk.js",
+    "static/js/2.901827b4.chunk.js.map": "/react-state-sleepy-homer/static/js/2.901827b4.chunk.js.map",
+    "index.html": "/react-state-sleepy-homer/index.html",
+    "precache-manifest.f95854b0b915df75faa52dc61e034b16.js": "/react-state-sleepy-homer/precache-manifest.f95854b0b915df75faa52dc61e034b16.js",
+    "service-worker.js": "/react-state-sleepy-homer/service-worker.js",
+    "static/css/main.af0a5a8e.chunk.css.map": "/react-state-sleepy-homer/static/css/main.af0a5a8e.chunk.css.map",
+    "static/media/logo.svg": "/react-state-sleepy-homer/static/media/logo.5d5d9eef.svg"
+  }
+}
